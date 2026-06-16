@@ -1,0 +1,19 @@
+# Archivos ejecutables
+*.exe
+*.out
+*.app
+
+# Archivos objeto y bibliotecas
+*.o
+*.a
+*.ko
+*.obj
+*.lib
+
+# Archivos de depuración y compilación
+*.d
+*.su
+*.gch
+*.pch
+*.map
+*.exp
