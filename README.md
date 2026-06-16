@@ -20,3 +20,6 @@ El programa utiliza `signal()` para redefinir el comportamiento por defecto de `
    ```bash
    ./manejador
 
+## Evidencias de ejecución
+
+![Programa en ejecucion](imagen.png "Imagen")
